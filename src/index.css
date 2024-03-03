@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+:root {
+  background: white;
+  color: black;
+}
+
+@layer utilities {
+  .paused {
+    animation-play-state: paused;
+  }
+}

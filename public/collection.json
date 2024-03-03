@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "img": "https://i.ibb.co/ky2Y1xq/62d641ad69615a8f5b7134b4-product-chair-1.jpg",
+    "name": "Accent Leisure Chairs",
+    "price": "$ 65.35 USD",
+    "mainPrice": "$ 102.35 USD"
+  },
+  {
+    "id": "2",
+    "img": "https://i.ibb.co/ch5GBw0/62d64275f8517774e2bef738-product-drawer-1.jpg",
+    "name": "Wooden Showpice Table",
+    "price": "$ 32.10 USD",
+    "mainPrice": "$ 68.35 USD"
+  },
+  {
+    "id": "3",
+    "img": "https://i.ibb.co/tX4Pstx/62d642deca41695a1cf043e4-product-chair-2.jpg",
+    "name": "Blockers Egg Chair",
+    "price": "$ 50.25 USD",
+    "mainPrice": "$ 80.00 USD"
+  },
+  {
+    "id": "4",
+    "img": "https://i.ibb.co/vdpCh2H/62d8ec79d8f3b1d3ab64d662-product-table-1.jpg",
+    "name": "Wooden Tea Table",
+    "price": "$ 40.50 USD",
+    "mainPrice": "$ 50.50 USD"
+  },
+  {
+    "id": "5",
+    "img": "https://i.ibb.co/sqjTJ4g/62d643b1b4338725b55f70a5-product-drawer-2.jpg",
+    "name": "Wooden Showpiece Table",
+    "price": "$ 80.30 USD",
+    "mainPrice": ""
+  },
+  {
+    "id": "6",
+    "img": "https://i.ibb.co/9brnzsc/62d64567958cf05f6e27747c-product-bed-1.jpg",
+    "name": "Wooden Bed",
+    "price": "$ 65.35 USD",
+    "mainPrice": ""
+  }
+]

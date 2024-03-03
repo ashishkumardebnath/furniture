@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "img": "https://i.ibb.co/sqjTJ4g/62d643b1b4338725b55f70a5-product-drawer-2.jpg",
+    "name": "Wooden Showpiece Table",
+    "price": "$ 80.30 USD",
+    "mainPrice": ""
+  },
+  {
+    "id": "2",
+    "img": "https://i.ibb.co/tX4Pstx/62d642deca41695a1cf043e4-product-chair-2.jpg",
+    "name": "Blockers Egg Chair",
+    "price": "$ 50.25 USD",
+    "mainPrice": "$ 80.00 USD"
+  },
+  {
+    "id": "3",
+    "img": "https://i.ibb.co/ky2Y1xq/62d641ad69615a8f5b7134b4-product-chair-1.jpg",
+    "name": "Accent Leisure Chairs",
+    "price": "$ 65.35 USD",
+    "mainPrice": "$ 102.35 USD"
+  }
+]
