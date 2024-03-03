@@ -6,18 +6,18 @@ const About1 = () => {
       <div>
         <div className="relative">
           <img src={img1} alt="Image" className="w-full h-auto" />
-          <div className="absolute inset-0 lg:pt-16 pt-4 lg:ps-16 ps-4">
+          <div className="absolute inset-0 lg:pt-16 pt-2 lg:ps-16 ps-2">
             <p className="text-white lg:text-lg font-sans">
               NEW <span className=" font-bold ">COLLECTIONS</span>
             </p>
-            <h4 className="lg:text-4xl text-2xl font-semibold text-white lg:mt-3 lg:mb-3">
+            <h4 className="lg:text-4xl text-xl font-semibold text-white lg:mt-3 lg:mb-3">
               Accent Leisure <br /> Chairs
             </h4>
             <p className="font-sans text-gray-400">
               Lorem ipsum dolor sit amet, consectetur <br /> scelerisque a
               tincidunt urna quam
             </p>
-            <button className="btn bg-white rounded-none font-sans lg:mt-8 mt-2">
+            <button className="btn bg-white rounded-none font-sans lg:mt-8 mt-1">
               SHOP NOW
             </button>
           </div>

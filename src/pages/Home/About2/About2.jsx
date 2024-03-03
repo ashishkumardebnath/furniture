@@ -57,10 +57,10 @@ const About2 = () => {
         <div className="relative">
           <img src={img1} alt="Image" className="w-full h-auto" />
           <div className="absolute inset-0 lg:pt-16 pt-4 lg:ps-16 ps-4">
-            <p className="text-white text-lg font-sans">
+            <p className="text-white lg:text-lg font-sans">
               MEGA SALE <span className=" font-bold ">UPTO 75%</span>
             </p>
-            <h4 className="text-4xl font-semibold text-white lg:mt-3 lg:mb-3 lg:my-0 my-3">
+            <h4 className="lg:text-4xl text-3xl font-semibold text-white lg:mt-3 lg:mb-3 lg:my-0 my-3">
               Fancy Sofa set
             </h4>
             <p className="font-sans text-gray-400">

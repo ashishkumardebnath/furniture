@@ -24,10 +24,10 @@ const Navbar = () => {
               <a>Blog</a>
             </li>
             <li>
-              <a>Sign Up</a>
+              <Link to="signup">Sign Up</Link>
             </li>
             <li>
-              <a>Login</a>
+              <Link to="login">Login</Link>
             </li>
           </ul>
         </details>
@@ -36,7 +36,7 @@ const Navbar = () => {
         <Link>About </Link>
       </li>
       <li>
-        <Link>Contact </Link>
+        <Link to="contact">Contact </Link>
       </li>
     </>
   );
@@ -68,7 +68,7 @@ const Navbar = () => {
           <div className="flex items-center -ms-4">
             <img src={logo} alt="" />
             <div className="-space-y-1">
-              <h3 className="text-4xl font-semibold">Dream</h3>
+              <h3 className="lg:text-4xl text-2xl font-semibold">Dream</h3>
               <p>Furniture</p>
             </div>
           </div>
@@ -76,9 +76,9 @@ const Navbar = () => {
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal text-lg px-1">{menuItems}</ul>
         </div>
-        <div className="navbar-end gap-4">
+        <div className="navbar-end lg:gap-4 gap-2">
           <HiUserCircle size={30} />
-          <h1 className="text-xl flex items-center gap-2">
+          <h1 className="lg:text-xl text-lg flex items-center gap-2">
             <BsCart4 size={30} />
             Cart(1)
           </h1>
